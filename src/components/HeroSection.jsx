@@ -38,7 +38,7 @@ const HeroSection = () => {
         ))}
       </div>
 
-      {/* Subtle Golden Accents */}
+      {/* Subtle Golden Accent */}
       <div className="absolute inset-0 overflow-hidden">
         <div className="absolute top-1/3 left-1/4 w-80 h-80 bg-gradient-to-br from-amber-50/20 to-transparent rounded-full blur-3xl" />
         <div className="absolute bottom-1/3 right-1/4 w-80 h-80 bg-gradient-to-tl from-amber-50/20 to-transparent rounded-full blur-3xl" />
