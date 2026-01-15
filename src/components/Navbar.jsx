@@ -46,7 +46,7 @@ const Navbar = () => {
                 Mabel's
               </span>
               <span className="text-[8px] tracking-[0.5em] uppercase text-amber-500/80 font-medium">
-                Sojorun
+                Sojourn
               </span>
             </Link>
 

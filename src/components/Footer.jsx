@@ -18,7 +18,7 @@ const Footer = () => {
           <div className="lg:col-span-5">
             <div className="mb-10">
               <span className="text-3xl font-serif italic text-white tracking-tighter block mb-2">Mabel's</span>
-              <span className="text-[10px] tracking-[0.5em] uppercase text-amber-500 font-bold">Sojorun</span>
+              <span className="text-[10px] tracking-[0.5em] uppercase text-amber-500 font-bold">Sojourn</span>
             </div>
             <p className="text-lg font-light leading-relaxed text-stone-300 max-w-md mb-10">
               Defining the new standard of hospitality across West Africa’s most prestigious postcodes.
@@ -93,7 +93,7 @@ const Footer = () => {
             <div className="space-y-6 text-sm font-light">
               <div className="flex items-center space-x-4 group cursor-pointer">
                 <Phone className="h-4 w-4 text-stone-600 group-hover:text-amber-500 transition-colors" />
-                <span className="group-hover:text-white transition-colors">+234 800 Sojorun LUX</span>
+                <span className="group-hover:text-white transition-colors">+234 800 Sojourn LUX</span>
               </div>
               <div className="flex items-center space-x-4 group cursor-pointer">
                 <Mail className="h-4 w-4 text-stone-600 group-hover:text-amber-500 transition-colors" />
@@ -106,7 +106,7 @@ const Footer = () => {
         {/* Bottom Section: Legal & Social */}
         <div className="pt-12 border-t border-stone-800 flex flex-col md:flex-row justify-between items-center gap-8">
           <div className="flex items-center space-x-8 text-[10px] uppercase tracking-[0.2em]">
-            <span className="text-stone-600">© {currentYear} Mabel's Sojorun Group</span>
+            <span className="text-stone-600">© {currentYear} Mabel's Sojourn Group</span>
             <a href="#" className="hover:text-white transition-colors">Privacy</a>
             <a href="#" className="hover:text-white transition-colors">Terms</a>
           </div>
