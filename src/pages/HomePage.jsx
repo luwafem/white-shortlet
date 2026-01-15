@@ -29,7 +29,7 @@ const HomePage = () => {
           <div className="flex flex-col md:flex-row md:items-end justify-between mb-20 gap-8">
             <div className="max-w-2xl">
               <span className="text-[10px] tracking-[0.4em] uppercase text-amber-600 font-semibold mb-4 block">
-                The 2024 Collection
+                The 2026 Collection
               </span>
               <h2 className="text-5xl md:text-7xl font-serif italic text-stone-900 leading-[1.1]">
                 Curated <span className="text-stone-400">Excellence</span>
